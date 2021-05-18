@@ -11,6 +11,7 @@ buildscript {
         glideVersion = '4.11.0'
         lottiVersion = "3.4.0"
         viewBindingVersion = "1.0.2"
+        pagingVersion = '3.0.0-alpha05'
     }
     repositories {
         google()

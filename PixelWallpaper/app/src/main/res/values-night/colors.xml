@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="MainColor">#232426</color>
+    <color name="underLine">#C6C6C8</color>
+    <color name="textColor">#fff</color>
+    <color name="textColorSecondary">#99FFFFFF</color>
+    <color name="cardBackground">#1B1B1B</color>
+
+    <color name="background">#232426</color>
+</resources>

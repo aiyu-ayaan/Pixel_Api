@@ -19,6 +19,8 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        buildConfigField("String","PIXEL_API_KEY",pixel_api_key)
     }
 
     buildTypes {
@@ -82,4 +84,7 @@ dependencies {
 
     //    ViewBinding
     implementation "com.github.yogacp:android-viewbinding:$viewBindingVersion"
+
+    // Paging 3
+    implementation "androidx.paging:paging-runtime:$pagingVersion"
 }

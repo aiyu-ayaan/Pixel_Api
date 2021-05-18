@@ -3,11 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/fragmentHome">
+    app:startDestination="@id/fragmentImage">
 
     <fragment
-        android:id="@+id/fragmentHome"
+        android:id="@+id/fragmentImage"
         android:name="com.aatec.pixelwallpaper.Fragments.ImageFragment.FragmentImage"
-        android:label="fragment_home"
+        android:label="Image"
         tools:layout="@layout/fragment_image" />
 </navigation>

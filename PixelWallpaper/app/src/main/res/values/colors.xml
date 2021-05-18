@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!--    Custom-->
+    <color name="MainColor">#f2f3f5</color>
+    <color name="underLine">#4000</color>
+    <color name="textColor">#000</color>
+    <color name="textColorSecondary">#99000000</color>
+
+    <!--    Custom-->
+    <color name="ripper">#D5D5D7</color>
+    <color name="colorAccent">#FF03DAC5</color>
+    <color name="cardBackground">#FFF</color>
+    <color name="searchView">#f2f3f5</color>
+    <color name="book_name">#ffd73135</color>
+    <color name="background">#F2f3f5</color>
 </resources>
