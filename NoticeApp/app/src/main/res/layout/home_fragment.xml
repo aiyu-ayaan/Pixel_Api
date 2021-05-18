@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/showNotice"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:transitionGroup="true"
+    tools:context="com.aatec.noticeapp.fragment.HomeFragment.HomeFragment"
+    tools:listitem="@layout/row_notice">
+
+</androidx.recyclerview.widget.RecyclerView>

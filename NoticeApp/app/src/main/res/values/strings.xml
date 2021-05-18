@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoticeApp</string>
+    <string name="transitionNotice">ExtraTransition</string>
+</resources>
